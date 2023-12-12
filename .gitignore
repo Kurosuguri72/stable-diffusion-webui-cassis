@@ -9,7 +9,8 @@ __pycache__
 /tmp
 /model.ckpt
 /models/**/*
-!/models/lora/*.safetensors
+/x-docs/*.pdf
+/x-docs/*.png
 /GFPGANv1.3.pth
 /gfpgan/weights/*.pth
 /ui-config.json
