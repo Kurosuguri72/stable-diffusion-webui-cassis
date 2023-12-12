@@ -1,0 +1,338 @@
+初期設定は「ui-config.json」を触れ
+    "txt2img/Negative prompt/value": "laugh, elf, lace, (hip:1.2), bad anatomy, (out of frame:0.7),(multiple view:1.3),(mask), (worst quality), (depth of field, blurry),(greyscale, monochrome),fat, fat thighs, huge breasts, 3D face, chibi, sd character, Reference sheet, steam, breath, handjob, double peace, ahegao, genshin, ( rimuru tempest :1.3) gokkun, cum in mouth, slime face, slime hair, slime head, green slime, futanari",
+
+
+BREAK構文はこの区切りを自分で決めるためのものです。呪文の間にBREAKというフレーズを呪文の間に入れると、そこで強制的に分割してくれます。
+例えば、masterpiece, 1igrl BREAK best qualityという呪文ならまずmasterpiece, 1igrlまでがCLIPに送られた後にbest qualityが送られます。
+
+表現メモ
+black straight semi long hair,brown blazer, white blouse, long pleated dark skirt
+submerged in liquefaction bed sheets,
+grabbing pillows,
+lower body is submerged in slime fused bed sheets and cannot be seen
+standing_missionary
+grabbing_another's_breast
+clothing_aside
+cunnilingus
+icicle
+melt into
+Clothes infested with muddy blue slime
+Girl's crotch hole
+vagina visible through crotch of pantites
+Girl's pussy liquefied by pure white inflated jelly visible through slimes
+inflated slime
+digs into panties and buries
+The penis is buried in the panties
+
+imminent_penetration
+imminent_rape
+object_insertion
+imminent_vaginal
+stained_panties
+vaginal_object_insertion
+spread_pussy_under_clothes
+tentacles_under_clothes
+tentacle_sex
+crotch_seam
+
+
+わかめ74法
+1girl, solo, hoodie, raising hands, hand gesture, v, tokyo, scenery
+BREAK
+wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame, wakame
+
+Negative prompt: EasyNegativeV2 wakame
+
+# 黒蛇背景の絵画封印、スライムオーガという発明、光るお化けはSpecter、透明なクラゲはIced glass、屈強なお化けはwraith、少女の石像という逆転発想
+
+( 00's anime, oblique perspective in white corridor:1.2)
+(  hands in clothes  girl captured by darkness wall with gorgeous square frame. crying girl asking for help in the framed darkness, lower body inside the framed darkness wall, and then knees cannot be seen. pure white thick panties covered to  snake  upon vagina, open leg spread vagina,  heavy pressed breasts by darkness, brown hair girl, wall printed on paper without depth,  lifted pure white blouse and bow medium breasts, :1.3),
+(checked brown pleated skirt,  pink ribbon,  wearing glasses:0.9)
+( medium breasts nipples sucks in snake bites,  girl bound arms as deep by darkness wall,   girl fusion darkness background on art, breasts grab from behind by snake)
+<lora:flat2:-0.2>
+BREAK
+( 00's anime, oblique perspective in white corridor with framed picture has gorgeous square frame hanging on the wall, reluctant school girl screaming open mouth, orgasm one close eye,)
+[ ( 15 years old girl sex vaginal in oblique perspective darkness , snake in pussy from breasts, girl stumbles pleated skirt lower body, black ogre snake slime raping girl's front pussy in framed darkness, deep penetration bites vaginal by black ogre snake from darkness wall , black snake bites eats waists to pleated skirt, bound to black snake slime fusion darkness background, spread clitoris hole object insertion,:1.5) : ( breasts grabbing crush by ogre snake, 15 years old girl with skirt and pure white thick panties, thick panties covering spread clitoris hole, black snake slime deep penetration over panties, stomach bulge, cement snake slime erupts from thick panties , black ogre slime object insert over thick white panties fusion white cement slime,  black slime ogre  grabbing breasts:1.6) : 10]
+
+
+
+ネガティブプロンプト
+laugh, elf, lace, (hip:1.2), bad anatomy, (out of frame:0.7),(multiple view:1.3),(mask), (worst quality), (depth of field, blurry),(greyscale, monochrome),fat, fat thighs, huge breasts, 3D face, chibi, sd character, Reference sheet, steam, breath, handjob, double peace, ahegao, genshin, ( rimuru tempest :1.3) gokkun, cum in mouth, slime face, slime hair, slime head, slime pillow, wakame
+
+学校スライムネガプロ
+solo, (laugh), elf, lace, faceless, (bad anatomy, out of frame:1.5),(multiple view:1.3),(mask), (worst quality), (depth of field, blurry),(greyscale, monochrome),fat, fat thighs, huge breasts, 3D face, chibi, sd character, Reference sheet, steam, breath, handjob, double peace, ahegao, genshin, ( rimuru tempest :1.3) gokkun, cum in mouth, slime face, slime hair, slime head, green slime, (futanari)
+
+学校スライム # タイル96、重なり8、パッチサイズ2, 顔の修復 同じサイズでリサイズ
+( looking at another,  clitoris hole invasion by frozen slimes in shirt and slimes in skirt to panties, clothed through orgy sex festival in classroom by boys have blue slime body, blue slime grabbing breasts fusion open white blouse,  thighs breasts bind by frozen slime from behind medium breasts) ,
+([ slime frozen penis fusion white thick panties, vaginal over frozen panties, : slime  (tentacle:0.3)  deep penetration to clitoris panties of all girls, slime boys grabbing breasts of all girls :10]),
+ (realistic:0.3)
+( futoku_no_guild, extremely detailed view from above far angle  perspective, full body group shot, small numerous 6+girls in classroom , sitting on floor missionary pantyshot, lifting person fall in the air, fallen posture melt thighs submerged in slime fusion floors),
+(blue cement slime from fusion wood floors,  pure white panties 6+girls , girl's breasts melt in slime blue slime swells in panties, blue slime transparent frozen penis deep penetration to clitoris fusion over spread panties :1.2),
+BREAK
+( [deep penetration over melt panties by blue slime cement penis, blue slimes invasion inside panties :  deep penetration fusion through pure white thick ice panties, huge slimes erupts from clitoris fusion white cement panties: 10]),
+( far angle  perspective, small numerous 5+girls , blue cement slimes deep penetration sex spread clitoris hole in spread panties, blue slime transparent cylinder insertion vaginal to clitoris open hole in spread panties , blue slime squirts out of clitoris hole :1.2),
+(Pure white thick panties fusion melt slimes, fallen posture crotch seam pigeon-toed, slime deep penetration by blue slime boys,  clitoris hole melt into panties permeated by blue slime, object insertion to clitoris,  blue cement slime insertion in clitoris holes likes panties,  clitoris slime invasion to panties ,  blue slime transparent frozen penis deep penetration to clitoris hole fusion over spread panties, ),
+BREAK
+(small numerous 5+girls group ask for help panic pantyshot in classroom wood floors , frozen blue slime collects on girl's panties,  cunnilingus by blue cement slime into panties , blue slime permeate swells in panties ,)
+( far angle  perspective, full body, school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt, pure white thick panties, boys hands in shirt :1.2),
+( implied cunnilingus huge blue slime on clitoris holes , blue slime transparent frozen penis injection to clitoris fusion over panties,  object insertion to clitoris hole over panties),
+(high quality, 15 years old school girl, scared, orgasm, crying open mouth, half close eyes :1.2),
+(black hair, straight long hair or single long pony tail),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+
+アニメテンプレートスクリプト(Prompts from templated file or textbox with GIF generation)
+(hetero, 1boy fusion blue slime body, slime boy has blue slime hands grabbing girl legs, 1girl has human skin hands and arms up grabbing pillow, blue slime boy has blue slime penis fusion cum splash covered by thick panties:2.0),  (blue slime boy have blue slime body fusion girl's breasts rampage under clothes:1.3)
+ (vaginal hidden and covered by thick panties fusion liquid cum :1.3),
+( missionary sex vaginal blue slime penis fusion covered by thick panties :1.3),
+blue slime fusion thick panties , sticky cum overflow fusion white panties under blue slime vaginal,
+pov, missionary, on back, spread legs, looking at viewer, girl on top, grabbing pillow,
+BREAK
+ school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt,
+slime boy has blue slime hands grabbing breasts, implied cunnilingus by huge blue slime
+high quality, 16 yo school girl in bedroom, black hair, straight long hair, orgasm, teary eyes,
+(Pure white thick pasty panties fusion in boy's slime penis :1.6),  panties fusion pussy under blue slime, girl's lower body covered by super wide thick panties covered skirt, object insertion,
+(deep cunnilingus in pasty panties by huge blue slime, blue slime liquid penis permeate in panties,  vaginal over panties by huge blue slime:1.3)
+blue slime sex fusion thick panties,  (vaginal fusion thick panties), (blue slime vaginal insertion fusion thick panties, blue slime penetration fusion cum splash thick panties:1.2),
+
+アニメテンプレートコマ割り
+prompt BREAK  small slime penis, closed mouth, close eyes, cum splash
+prompt BREAK (imminent penetration covered panties:1.1), (small slime penis:0.6), half open mouth, teary eyes, cum splash
+prompt BREAK vaginal (penetration covered panties:1.2), (small slime penis:0.6),  half open mouth, half open eyes, cum splash
+prompt BREAK deep penetration covered panties, open mouth, closed eyes,  cum splash
+prompt BREAK (imminent penetration covered panties, slime on vagina:1.3), half open mouth, half open eyes, cum splash
+prompt BREAK (deep penetration covered panties, huge slime on vagina:1.4),  open mouth, closed eyes, cum splash
+prompt BREAK (imminent penetration covered panties, slime on vagina:1.3), half open mouth, half open eyes, cum splash
+prompt BREAK deep penetration covered panties, half open mouth, half open eyes, cum splash
+prompt BREAK vaginal (penetration covered panties:1.2), (small  slime penis:0.6),  half open mouth, half open eyes, cum splash
+prompt BREAK (imminent penetration covered panties:1.1), (small slime penis:0.6),  closed mouth, closed eyes, cum splash
+prompt BREAK  small slime penis, closed mouth, half open eyes, cum splash
+
+透明人間
+[1boy have invisible body spiritual object sex, 1girl little arms up  : boy vanished and erased : 5], breast grab by boy's hands, boy cannot be seen,
+transparent hand in panties , hand in open spread clitoris hole  , object insertion on pressed panties, penis cannot be seen,
+breast rampage in clothes  by air pressure grab, crushed breasts and dig breasts under girl's clothes by air pressure grab,
+[ pressed lower body : thigh grab by transparent spiritual hands, : 15]
+<lora:invisible:0.1>
+1girl floating and fall in the air with suspended congress crotch seam,
+1boy and penis disappeared erased vanished cannot be seen,
+(transparent penis disappeared erased vanished ) fucking fusion panties clitoris hole ,
+[ pure white thick panties, panties and thigh dented under pressure , (transparent spiritual air vaginal over panties) :  deep press penetration by half vanished penis to clitoris open spread hole vaginal over panties: 10],
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt, pure white stained panties dented under pressure:1.2),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, half open eyes,  teary eyes :1.3),
+(black hair, straight long hair or single long pony tail),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+ステップ区切り合成 [a : b : stepnum ]
+[1girl school uniform, 1boy have blue slime body, boy breast grab with blue slime, hetero fisting vaginal sex missionary crotch seam : 1boy vanished, blue slime Cunnilingus under wet panties, 1girl school uniform vaginal as clitoris hole covered panties :7]
+
+実験
+(blue slime sticky boy has blue slime body, groping ), (girl grabbing pillow, high-waist skirt, pure white panties fistfuck by blue slime hands, Blue slime injection into skirt and breasts:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breast grabbing from behind by blue tentacle hand slime , blue tentacle hand slime fusion breasts camisole, melt long camisole melt skirt under huge blue slime, camisole lift bow lower breasts, breasts crushed into slime by Blue slime boy's hands, girl is arm little up grabbing pillow),
+(blue slime boy grabbing girl's breasts and digging small breasts,  lower breasts fusion slime clothes, boy has blue slime body fistfuck to girl's panties:1.3),
+(pure white panties with one pink ribbon, implied cunnilingus by huge blue slime on panties:1.2),
+BREAK
+ (1 human has blue slime body, blue slime in panties to clitoris,:1.2), blue slime human has blue slime penis, 1girl, school girl,  blue slime squirts out of clitoris hole ,
+(Pure white thick panties fusion melty white slimes , crotch seam, open leg missionary vaginal deep penetration,  clitoris hole melt into panties permeate in white slime, object insertion with melty white slime overflow on clitoris,  vaginal sex hidden in clitoris holes likes panties, girl's lower body covered by super wide thick panties covered skirt fusion Blue slimes),
+( blue slime from bedsheets, deep penetration over pasty panties fusion milk slime, pasty cum in panties fusion pasty panties overflow ),
+(school girl studying in her room, blue slime collects on girl's panties, girl got cunnilingus by blue slime in pasty panties , blue slime permeate in panties,)
+( implied cunnilingus, huge blue slime from clitoris fusion splash slime hole , blue slime injection over pasty fusion panties,  object insertion to clitoris hole over panties, blue slime injection to clitoris hole over panties sucks in fusion slimes, slime hand digging clitoris hole:1.3),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt, pure white panties :1.2),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, half open eyes,  teary eyes :1.3),
+(black hair, straight long hair or single long pony tail),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+パンティ姦スライム
+(blue slime sticky boy has blue slime body, groping ), (girl grabbing pillow, high-waist skirt, Blue slime injection into skirt and breasts:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breast grabbing from behind by blue tentacle hand slime , blue tentacle hand slime fusion breasts camisole, melt long camisole melt skirt under huge blue slime, camisole lift bow lower breasts, lower breasts eat and bite by Blue slime , girl is arm little up grabbing pillow),
+(blue slime boy grabbing girl's breasts and digging small breasts,  boy has blue slime body eating lower breasts over clothes, breasts trampled by slime clothes:1.3),
+(pure white panties with one pink ribbon, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+ (1 human has blue slime body, blue slime in panties to clitoris,:1.2), blue slime human has blue slime penis, 1girl, school girl,  blue slime squirts out of clitoris hole ,
+(Pure white thick panties fusion melty white slimes , crotch seam, open leg missionary vaginal deep penetration,  clitoris hole melt into panties permeate in white slime, object insertion with melty white slime overflow on clitoris,  vaginal sex hidden in clitoris holes likes panties, girl's lower body covered by super wide thick panties covered skirt fusion Blue slimes),
+( blue slime from bedsheets, deep penetration over pasty panties fusion milk slime, pasty cum in panties fusion pasty panties overflow ),
+(school girl studying in her room, blue slime collects on girl's panties, girl got cunnilingus by blue slime in pasty panties , blue slime permeate in panties)
+( implied cunnilingus, huge blue slime from clitoris fusion splash slime hole , blue slime injection over pasty fusion panties,  object insertion to clitoris hole over panties, blue slime injection to clitoris hole over panties sucks in fusion slimes:1.3),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.2),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, half open eyes,  teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+(16 years old school girl in school girl's bedroom, missionary vaginal sex, girl grabbing pillows:1.2),
+(black hair straight semi long hair)(scared, orgasm, teary eyes, open mouth),
+(girl's school uniform is open brown blazer, open collar shirt, dark navy pleated very long skirt:1.3),
+(hair ornament, hairclip:0.5),
+BREAK
+(school girl is grabbing pillows, girl's lower body and panties submerged in bedsheets, The blue slime creature from in bedsheets,girl's lower body cannot be seen, skirt completely submerged in liquefaction bedsheets:1.3),
+BREAK
+(white camisole fusion inner sports bra, sticky hands grabbing breasts generated by sticky slime insert underwears, sticky fingers digging breasts squeeze hard:1.3),
+(sticky blue slime erodes girl's breasts and liquefaction crotch,blue slime penis attach to panties and digging cum overflow fusion eats pussy juice stain:1.5)
+(sticky blue slime erodes girl's breasts and liquefaction crotch,blue slime penis attach to panties and digging cum overflow fusion eats pussy juice stain, Blue slime penis screw in and eats liquefaction panties , blue slime pokes dark hole in girl's pure white panties:1.4),
+BREAK
+(sticky blue slime penis eats girl's crotch juice stain into dark hole, blue penis crash hardly to pussy juice stain, pussy juice stain sucks in muddy blue slime penis, muddy blue penis sneak to crotch and digging dark hole on vaginal sex hard, muddy blue penis sneak to clitris to hem of the skirt:1.3),
+(Pure white plain shcool thick panties made of pure white cotton, girl's lower body hidden by high-waist big thick panties covered skirt:1.3),
+
+(blue slime sticky boy has blue slime body, groping ), (girl grabbing pillow, high-waist skirt, Blue slime injection into skirt and breasts:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long lifted camisole fusion kids sports bra with open blazer, breast grabbing from behind by bubbling blue slime,  finger slime fusion into lower breasts, torn melt sports bra under blue slime, camisole lift and bow medium breasts, Blue slime eating and sucking lower melt breasts in slime, girl is arm little up grabbing pillow),
+(blue slime boy has blue slime grabbing girl's breasts and digging small breasts,  boy has blue slime body fusion lower breasts, breasts trampled and melt in blue slime, :1.3),
+(pure white panties with 1 pink ribbon, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+ 1 human has blue slime body, slime tentacle in panties, blue slime human has blue slime penis, 1girl, school girl,  water splash on clitoris hole,
+(Pure white thick panties fusion melty white slimes , crotch seam, open leg missionary vaginal deep penetration,  clitoris hole melt into panties permeate in white slime, object insertion with melty white slime overflow on clitoris,  vaginal sex hidden in clitoris holes likes panties, girl's lower body covered by super wide thick panties covered skirt fusion Blue slimes),
+( blue slime from bedsheets, deep penetration over pasty panties fusion milk slime, pasty cum in panties fusion pasty panties overflow ),
+(girl's room, blue slime collects on girl's panties, girl got cunnilingus by blue slime in pasty panties , blue slime permeate in panties)
+( implied cunnilingus, huge blue slime from clitoris fusion splash slime hole , blue slime injection over pasty fusion panties,  object insertion to clitoris hole over panties, blue slime injection to clitoris hole over panties sucks in fusion slimes:1.3),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, half open eyes,  teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+(blue slime sticky boy has blue slime body), (girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breasts grab from behind  by blue slime boy, bra lift by blue slime boy , bow small breasts, girl is arm little up grabbing pillow:1.3),
+(blue slime boy has blue slime hands grabbing girl's breasts and digging small breasts, fingers melt into breasts,  boy has blue slime body hands fusion in girl's breasts, breasts trampled by boys hands from behind:1.3),
+(pink ribbon pure white panties, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+ 1 human has blue slime body, blue slime human has blue slime penis, 1girl, school girl,
+(Pure white thick panties fusion melty white slimes , crotch seam, open leg missionary vaginal,  clitoris hole melt into panties permeate in white slime, object insertion with melty white slime overflow on clitoris,  vaginal sex hidden in clitoris holes likes panties, girl's lower body covered by super wide thick panties covered skirt),
+( blue slime from bedsheets, deep penetration over pasty panties fusion milk slime, pasty cum in panties fusion pasty panties overflow ),
+(girl's room, blue slime collects on girl's panties, girl got cunnilingus by blue slime in pasty panties , blue slime permeate in panties)
+( implied cunnilingus, huge blue slime from  clitoris fusion splash slime hole ,  object insertion to clitoris hole over panties, blue slime insertion over pasty panties, blue slime insertion to clitoris hole over panties sucks in fusion slimes:1.3),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, half open eyes,  teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+(blue slime sticky boy has blue slime body), (girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breasts grab by blue slime boy from behind , camisole lift by blue slime boy and bow medium breasts, girl is arm little up grabbing pillow:1.3),
+(blue slime boy has blue slime hands grabbing girl's medium breasts and digging girl's breasts and melting girl's breasts,  boy has blue slime body fusion in girl's breasts, breasts trampled by many hands:1.3),
+(pink ribbon pure white panties, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+(crotch seam, grinding open leg vaginal sex panties aside fusion over panties,  Pure white thick pasty panties, girl's lower body covered by super wide thick panties covered skirt, object insertion over pasty cum splash:1.6)
+( deep penetration by blue slime from bedsheets, sex over panties under blue slime, fusion vaginal rape under blue slime, sticky cum overflow fusion vaginal white panties under blue slime:1.2 ),
+(girl's room, deep cunnilingus in pasty panties by huge blue slime, blue slime liquid penis permeate in panties,  vaginal over panties by huge blue slime:1.3)
+( implied cunnilingus, huge blue slime covering over panties,  object insertion over panties to hole, blue slime insertion over pasty panties, blue slime insertion to hole over panties sucks in fusion slimes :1.5),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5)
+<lora:flat:-0.2>
+
+(girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breasts grabbing from behind by slime, camisole lift bow medium breasts, girl is arm little up grabbing pillow and medium breasts grab and breasts digging and melting by someone's fingers fusion clothes,  blue slime  fusion in breasts, breasts trampled by many hands:1.3),
+(pink ribbon pure white panties, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+(crotch seam, grinding open leg vaginal sex panties aside fusion over panties,  Pure white thick pasty panties,  pasty panties fusion pussy hole raped in under blue slime, girl's lower body covered by super wide thick panties covered skirt, object insertion over pasty cum splash:1.6)
+( imminent penetration by blue slime from bedsheets, sex over panties  under blue slime, fusion vaginal rape under blue slime, sticky cum overflow fusion vaginal white panties under blue slime:1.2 ),
+(girl's room,  implied cunnilingus in pasty panties by huge blue slime, blue slime liquid penis permeate in panties,  vaginal over panties by huge blue slime:1.3)
+( implied cunnilingus, huge blue slime dive over panties,  object insertion over panties to hole, blue slime insertion over pasty panties, blue slime insertion to hole over panties sucks in fusion slimes :1.5),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5) <lora:flat:-0.2>
+
+(girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breasts grabbing from behind by slime, camisole lift bow medium breasts, girl is arm little up grabbing pillow and medium breasts grab and breasts digging and melting by someone's fingers fusion clothes,  blue slime  fusion in breasts, breasts trampled by many hands:1.3),
+(pink ribbon pure white panties, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+(crotch seam, grinding open leg vaginal sex panties aside fusion over panties,  Pure white thick pasty panties,  pasty panties fusion pussy hole raped in under blue slime, girl's lower body covered by super wide thick panties covered skirt, object insertion over pasty cum splash:1.6)
+( imminent penetration by blue slime from bedsheets, sex over panties  under slime, fusion vaginal rape under slime, sticky cum overflow fusion vaginal white panties under blue slime:1.2 ),
+(girl's room,  implied cunnilingus in pasty panties by huge blue slime, blue slime permeate in panties,  vaginal over panties by huge blue slime:1.3)
+( implied cunnilingus, huge blue slime dive over panties,  object insertion over panties to hole, slime insertion over pasty panties, blue slime insertion to hole over panties sucks in fusion slimes :1.5),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5) <lora:flat:-0.2>
+
+(girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, breasts grabbing from behind by slime, camisole lift bow medium breasts, girl is arm little up grabbing pillow and medium breasts grab and breasts digging and melting by someone's fingers fusion clothes,  blue slime  fusion in breasts, breasts trampled by many hands:1.3),
+(pink ribbon pure white panties, implied cunnilingus by huge blue slime in bed:1.2),
+BREAK
+(crotch seam, grinding open leg vaginal sex panties aside fusion over panties,  Pure white thick pasty panties,  pasty panties fusion blue slime overflow from pussy hole, girl's lower body covered by super wide thick panties covered skirt, object insertion over pasty cum splash:1.6)
+( imminent penetration by blue slime penis from bedsheets, sex over panties, slime sex over panties, vaginal sex over panties),
+(girl's room,  implied cunnilingus in pasty panties by huge blue slime, blue slime permeate in panties,  vaginal over panties by huge blue slime:1.3)
+( implied cunnilingus, huge blue slime dive over panties,  object insertion over panties to hole, slime penis insertion over pasty panties, blue slime insertion to hole over panties sucks in fusion slimes :1.5),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt, checked skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5) <lora:flat:-0.2>
+
+
+( Pure white thick pasty panties,  wide pussy juice stains on wet pasty panties, girl's lower body covered by super wide thick panties covered skirt, stained panties fusion pasty cum hidden in white panties:1.4),
+(girl's room, imminent penetration by slime over panties, implied cunnilingus with huge blue slime over pasty panties, blue slime permeate in panties,  pasty cum seeps into panties, blue slime dive into dark hole on pussy, blue slime diving to pasty panties fusion clitoris and dark hole, crotch seam, slime object insertion to under pasty panties, slime object insertion to vaginal over pasty panties, insertion vaginal by blue slime cum fusion in under panties :1.6),
+(on side), (crotch seam, m leg:1.3), escape,
+BREAK
+(girl grabbing pillow, high-waist skirt:1.2),
+(bed, school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, blue slime fusion melt long camisole lift, slime hands in panties,  medium breasts, bubbling blue slime medium breasts grab and breasts digging ,  blue slime fusion under camisole blouse and melt pasty breasts :1.4),
+(pink ribbon panties1.2),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip, checked skirt:0.5) <lora:flat:-0.2>
+
+(Pure white thick panties,  pasty panties, girl's lower body covered by super wide thick panties covered skirt, stained panties fusion sticky cum, cum hidden in under white  dry panties:1.4),
+( imminent penetration over panties, implied cunnilingus with huge blue slime fusion panties, long blue slime worm bites to clitoris through panties, blue slime dive into dark hole through panties, blue slime worm diving to girl's crotch, crotch seam, vaginal slime insertion over panties fusion cum, vaginal slime insertion by blue slime, deep insertion by blue slime with cum splash fusion melt white panties :1.6),
+(on side:0.7), (crotch seam, m leg:1.3), escape,
+BREAK
+(girl grabbing pillow, high-waist skirt:1.2),
+(school girl drown in white bedsheets, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets, girl's lower body cannot be seen :1.4),
+(white long camisole fusion kids sports bra with open blazer, blue slime fusion melt long camisole by slime's hands,  medium breasts, blue slime worm grabbing and bites medium breasts,  blue slime worm digging medium breasts and melt fusion breasts:1.3),
+(pink ribbon panties1.2),
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt:1.4),
+(high quality, 15 years old school girl in young girl's bedroom, scared, orgasm, open mouth, teary eyes :1.3),
+(black hair, straight long hair),
+(hair ornament, hairclip:0.5) <lora:flat:-0.2>
+
+
+(Pure white thick panties,  girl's lower body covered by super wide thick panties covered skirt, stained panties fusion sticky white yogrut:1.4),
+(object insertion by blue slime over white panties ,  vaginal object insertion on white panties by blue slime gel , blue slime gel fusion spread pussy under panties, blue slime tentacle dive into girl's panties and camisole:1.4),
+(imminent penetration through panties,  implied cunnilingus by long blue slime, huge leech blue slime bites girl's clitoris under panties:1.6),crotch seam,
+BREAK
+(school girl drown in white bedsheets,  girl's lower body cannot be seen, white slimes hiding in white bedsheets, girl's lower body submerged in white bedsheets :1.4),
+(girl grabbing pillow, high-waist skirt:1.2), (white long camisole fusion kids sports bra with open blazer, blue slime generates sticky blue slime hands fusion long camisole,  medium breasts, medium breast grab by sticky breast slime hands,  medium breasts digging by sticky blue breast slime fingers from camisole, medium breasts rampage by blue breast slime in camisole, blue slime dive into breasts under long camisole:1.2),
+(on side:0.7), (m leg:1.2), escape,
+BREAK
+(school uniform, open brown blazer, open white blouse, dark navy pleated long skirt:1.4),
+(pink ribbon panties1.2),
+(high quality, 15 years old school girl in young girl's bedroom, cunnilingus open legs, girl grabbing pillows,  scared, orgasm, open mouth, teary eyes :1.6),
+(black hair straight long hair, Japanese eyes),
+(hair ornament, hairclip:0.5) <lora:flat:-0.2>
+
+
+[negative]
+laugh, elf, lace, {wet pussy}, {out of frame},(multiple view),(mask), {worst quality}, (depth of field, blurry:1.2),(greyscale, monochrome:1.1),fat,  3D face, chibi, sd character,Reference sheet, steam, breath, handjob, double peace,ahegao
+laugh, elf, lace, {out of frame},(multiple view),(mask),(worst quality, low quality:1.3), (depth of field, blurry:1.2),(greyscale, monochrome:1.1),fat, (disfigured) 3D face, cropped,chibi, sd character,Reference sheet, steam, breath, handjob, double peace,ahegao
+
+((out of frame)),[bad anatomy] (bad hands),(multiple view),(mask),(worst quality, low quality:1.3), (depth of field, blurry:1.2),(greyscale, monochrome:1.1),fat, (disfigured) 3D face, cropped,chibi, sd character,Reference sheet, steam, breath, handjob, double peace,ahegao
+
+((out of frame)), (bad anatomy) (bad hands),  (multiple view),  (mask), (worst quality, low quality:1.3), (depth of field, blurry:1.2), (greyscale, monochrome:1.1),fat, (disfigured) 3D face, cropped,chibi, sd character,Reference sheet, steam, breath
+
+(worst quality, low quality:1.3), (depth of field, blurry:1.2), (greyscale, monochrome:1.1), 3D face, nose, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, (tan, muscular, loli, petite, child, infant, toddlers, chibi, sd character:1.1), multiple view, Reference sheet,
+
+EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers, bad hand, high heel shoes, fat ass, hole,kid,teen,cute,naked, Ripped jeans, hole jeans, fat thigh,6 fingers, bikini, underwear, nsfw, nude, briefs, knickers, underpants, panties, swim suit,leg open
+
+---

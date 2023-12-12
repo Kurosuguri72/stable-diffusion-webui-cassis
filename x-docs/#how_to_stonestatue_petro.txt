@@ -1,0 +1,11 @@
+ネガティブプロンプト
+laugh, elf, lace, (hip:1.2), bad anatomy, (out of frame:0.7),(multiple view:1.3),(mask), (worst quality), (depth of field, blurry),(greyscale, monochrome),fat, fat thighs, huge breasts, 3D face, chibi, sd character, Reference sheet, steam, breath, handjob, double peace, ahegao, genshin, ( rimuru tempest :1.3) gokkun, cum in mouth, slime face, slime hair, slime head, slime pillow, wakame
+
+#公式絵の魔法
+non-web source, game cg, official art, 00's anime,
+
+# 黒蛇背景の絵画封印、スライムオーガという発明、光るお化けはSpecter、透明なクラゲはIced glass、屈強なお化けはwraith、少女の石像という逆転発想、石化は水銀でいけるか？
+
+( 00's anime, museum in white corridor, reluctant school girl screaming open mouth, open legs invitation orgasm one close eye, winter navy school uniform, brown pleated skirt,  black long straight hair girl fusion to stone statue rapist. <lora:JapaneseDollLikeness_verB:0.3> <lora:Petrification:0.2><lora:buruma:0.3> <lora:flat2:-0.2><lora:NAI-missionary:0.3>)
+BREAK
+[ ( 16 years old girl vaginal,  winter navy school uniform, gray stone statue of rapist catch raping school girl, Dutch angle raping girl by front in museum, statue of rapist penis deep penetration vaginal to spread pussy, stone statue hands grabbing breasts from pleated skirt, bound to silver slime fusion gray stone statue, spread clitoris hole object insertion, breasts grabbing by stone rapist,  <lora:concept-tip-mid-base-vaginal-v1:0.66> <lora:Petrification:0.33>  )  : ( long hair winter navy school uniform, lower dark gray cement body fusion into gray cement statue, black long hair stone statue of school girl,  black long straight hair , stone gray slimes covering spread clitoris hole,  stone gray slimes covering deep penetration stone penis, dark gray cement slime erupts from pussy,  stone statue of school girl fusion stone object, grabbing breasts by fusion stone statue,  <lora:stone_statue:0.2>  <lora:flat2:-0.2>)  : 10]   <lora:JapaneseDollLikeness_verB:0.1>
