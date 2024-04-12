@@ -1,0 +1,47 @@
+# MomoiroPonyでは「score_9」で品質を決める # 1.5系のプロンプトは通用しないことが多い。構築しなおし
+score_9, score_8_up, score_7_up, score_6_up, source_anime
+
+( 1996's doujin hentai, 2000's game cg hentai, 2010's high quality hentai, :1.2),(rating: explicit uncensored blue slime sex under clothes, nsfw),
+ 1girl, official art best quality,  detailed wide indoors , grinding  position,  15 years old school girl crotch rub by blue slug . blue cement slime puddle on bedsheets and clitoral stimulation, (white long camisole lift fusion blouse prepared open blazer by blue slime psychokinesis , brown blazer undressed blouse,  dark navy pleated long skirt, checked skirt,  high-waisted kawaii pure white childish panties prepared pink ribbon) ,female ejaculation  by huge blue slug press,
+BREAK
+ (brown hair,  hazel eyes, long  hair,)(lying on bed, blue slime slug melt into see through urethra panties),tentacles, tentacle sex,  (( 15 years old girl with wide thick childish kodomo panties see through urethra covered seamless fusion urethra sex by blue slime )), (spread knees hanging loose), (blue slime slug covering nipples and medium breasts melt into slime press psychokinesis, partially submerged, lying, angle, stuck, navy school uniform camisole, open mouth, full-face teary orgasm, half closed teary eyes Sensual gasping face,  girl's lower body trucked and submerged bedsheets fusion white glass slug)( uncensored sex urethra molestation by ice white slime slug)  (blue slime cement slug wrap around blouse, blue slime cement slug wrap around panties)  (blue glass slime sex through over super white panties with long pleated skirt),
+(girl sitting sex ride on a blue slug, blue slug seamless fusion with blue slime see through urethra under panties:1.3)
+
+
+# 3
+
+score_9, score_8_up, score_7_up,  source_anime, very aesthetic ,  legs completely sucked in slime puddle seamless fusion bedsheets legs cannot be seen ,
+(  1995s japan animation doujin childish lady  panties hentai fusion game event cg , adult video erotic film awesome quality  very aesthetic realistic school girl and spread urethra  into  panties by huge candy-like slug seamless  fusion clothes of underwear, rating: explicit, uncensored sex clothed by slime slug,  17 years old lady school girl, blue slime slug  melt and drip through urethra seamless half intersecting fusion panties of candy-like slime, female ejaculation , spread knees hanging loose : 1.3),
+( detailed wide indoors, white long blouse lift  seamless  fusion camisole prepared open blazer by blue slime psychokinesis , brown blazer undressed blouse fusion candy slime,  dark navy pleated long skirt checked skirt,  high-waisted kawaii pure white teens panties hiding urethra) , (brown hair,  hazel eyes, long  hair,)
+( 15 years old junior girl with wide thick childish panties, blue slug covered underwear and through urethra seamless fusion blue slime puddle , crotch rub sex by blue slime tentacle. blue cement slime puddle on bedsheets and clitoral stimulation ),
+BREAK
+(blue slime slug covering breasts melt into slime press psychokinesis, legs cannot be seen completely submerged to slime puddle, top angle, stuck, navy school uniform camisole, open mouth, full-face teary orgasm, half closed teary eyes Sensual gasping face,  girl's lower body trucked and submerged in bedsheets seamless  fusion white glass slug)
+(blue glass slime sex through over super white candy-like panties with long pleated checked  skirt, sitting on slime water surface, photoreal:1.3)
+ ( trucked on bed, blue slime sex melt seamless  fusion penetration into through urethra panties,  crawl around slime candy-like breasts melt and drip, melt and drip slime fusion melt urethra seamless fusion pure white childish panties bulge panties by tentacle, melt sex fusion lower bodies white panties:1.3),
+tentacles, tentacle sex,  molestation by slug slime penis, blue slime cement slug wrap around blouse, blue slime cement slug wrap around candy-like panties, girl ride on a blue slime penis, blue slug seamless fusion with blue slime through sex under panties
+
+
+# 第二講
+
+score_9, score_8_up, score_7_up,  source_anime, very aesthetic
+(  1998's doujin hentai,  game cg hentai,  best quality hentai , rating: explicit uncensored sex clothed,  17 years old school girl, blue slime bulge sex through in clothes, ),
+lying female ejaculation detailed wide indoors ,  spread knees hanging loose
+(white long blouse lift fusion camisole prepared open blazer by blue slime psychokinesis , brown blazer undressed blouse,  dark navy pleated long skirt, checked skirt,  high-waisted kawaii pure white childish panties) , (brown hair,  hazel eyes, long  hair,)
+( 15 years old girl with wide thick childish kodomo panties see through urethra covered seamless fusion urethra sex by blue slime, crotch rub sex by blue slime tentacle. blue cement slime puddle on bedsheets and clitoral stimulation ),
+BREAK
+(blue slime slug covering breasts melt into slime press psychokinesis, partially submerged, lying, angle, stuck, navy school uniform camisole, open mouth, full-face teary orgasm, half closed teary eyes Sensual gasping face,  girl's lower body trucked and submerged bedsheets fusion white glass slug)
+(blue glass slime sex through over super white panties with long pleated skirt)
+ (lying on bed, blue slime slug melt into see through urethra panties),
+tentacles, tentacle sex, urethra molestation by slug slime penis, blue slime cement slug wrap around blouse, blue slime cement slug wrap around panties, girl sitting sex ride on a blue slug, blue slug seamless fusion with blue slime see through urethra under panties
+
+
+
+# ネガティブプロンプトは幸いそのままでいけそう
+laugh, elf, lace, ( blue ribbon, hip, anal:1.3), (out of frame:0.7),(mask), (depth of field, blurry),fat, fat thighs, huge breasts, 3D face, chibi, sd character, Reference sheet, steam, breath, handjob, double peace, ahegao, genshin, ( rimuru tempest :1.3) gokkun, cum in mouth, slime face, slime hair, slime head, green slime, futanari, cat ear, text, signature, watermark, title, meme, reference sheet, 3 arms, 3 legs, multiple legs, (bad proportions, bad pupils,  fewer digits:1.3),  (long legs, long arms, long body, long hands, long fingers:1.2),(mutated hands and fingers, mutation, blurry :1.2),(thick thighs, wide hips:1.3),(censored, mosaic censoring:1.1), (tentacle hair)
+
+# 公式のサンプルプロンプト
+Prompt
+score_9, score_8_up, score_7_up, source_anime, 1girl, kitchen, apron, (eating sweets), (spoken exclamation mark:0.8), surprised, blush, table, two side up, short sleeves, blonde hair, blue eyes, looking at viewer
+
+Negative
+deformed anatomy, deformed fingers, realistic, source_furry, censored, @_@, heart-shaped pupils, abs,

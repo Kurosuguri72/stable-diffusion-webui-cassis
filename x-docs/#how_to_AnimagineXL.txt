@@ -1,0 +1,151 @@
+# https://wikiwiki.jp/sd_toshiaki/Animagine%20XL
+#
+# プロンプトの記述方法
+# プロンプトは(1girl or 1boy), (キャラ名), (作品名), (それ以外のプロンプト),(クオリティタグ) の順に記述する。ブログ参照
+# クオリティタグとはmasterpieceやbest qualityなどである。ただし、masterpieceやbest qualityのついた学習画像の大半はNSFW*1であることが多いことからそういった内容のイラストが出る傾向にある。
+# 避けたい場合は、プロンプトのクオリティタグに「rating :general」を、ネガティブプロンプトに「nsfw, rating :sensitive」を追記することが推奨されている。
+# ネガティブプロンプトとしては以下のとおり記述することが推奨されている。
+# lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name
+#
+# もちろん、NSFWイラストを生成したい場合は、冒頭のnsfwについては削除すればいい。
+# その他の設定
+# サンプラー……Euler a
+# ステップ数……30以下
+# CFGスケール……5～7
+# 画像サイズ
+# 1024×1024をベースとして以下のサイズがサポートされている。
+# SD1.5のように512×512などの小さいサイズを出そうとすると露骨に品質が落ちるので注意。
+#
+# サイズ	アスペクト比
+# 1024*1024	1:1
+# 1152*896	9:7
+# 896*1152	7:9
+# 1216*832	19:13
+# 832*1216	13:19
+# 1344*768	7:4
+# 768*1344	4:7
+# 1536*640	12:5
+# 640*1536	5:12
+#
+# 特別なタグ
+# danbooruのタグとは別に以下のタグが定義されており、生成される画像の制御に利用できる。
+# 品質タグ
+# タグ	品質
+# masterpiece	150超
+# best quality	100～150
+# high quality	75～100
+# medium quality	25～75
+# normal quality	0～25
+# low quality	-5～0
+# worst quality	-5未満
+# 評価タグ
+# rating: questionable, rating: explicitは基本的にnsfwタグとして機能するようで、下にいけば行くほどNSFWなイラストが出る傾向にある。
+#
+# ただし、特に「rating: questionable」と「rating: explicit」については詳細な説明がないため具体的なところは不明。
+# タグ	評価
+# rating: general	一般的なイラスト
+# rating: sensitive	センシティブなイラスト
+# rating: questionable, nsfw	疑わしいイラスト
+# rating: explicit, nsfw	明示的なイラスト
+# 年代タグ
+# 絵柄の年代を指定する。いわゆる少し古いイラストを指定することも可能である。
+# 何も指定しなかった場合は、newestのイラストが生成される模様。
+#
+# それより古い年代のイラストについてはdanbooruタグの「1950s (style)」～「2000s (style)」までが10年刻みで存在するので利用するのも手（これらのタグはその他のタグの位置に記述すること）。
+# タグ	年代
+# newest	2022～2023年
+# late	2019～2021年
+# mid	2015～2018年
+# early	2011～2014年
+# oldest	2005～2010年
+# キャラクター名やシリーズ名で出せるキャラ
+# 一覧についてはこちらにまとめられている。
+#
+# ざっくり言うと、比較的最近のソシャゲキャラや有名なアニメキャラが対象となっているが、作品の偏りは大きい。
+# 原神やアズールレーン、Fate/Grand Orderなどのキャラは対象が多いが、著名作でも対象となっていないケースもある。一度試してみて見当外れの結果が出た場合は対象外と思った方がいいだろう。
+# なお、対象と記載されているケースでも精度についてはマチマチなので、必要ならばその他のタグで補完した方がいいケースも。
+# その他の補足
+# プロンプトの記法として1girl / 1boyを先頭に記述するとあるが、当然ながら2girlsなどのタグを利用することも可能。
+# 版権キャラではないオリジナルキャラを生成したい場合はキャラ名、シリーズ名を省略してoriginalを入れるといい。
+# originalを入れなくてもいいが、特定のタグがキャラを想起させるケースもあるためoriginalを入れた方が安定しやすい。
+# FAQ
+# なんか変な色合いのイラストが生成されたんだけど
+# VAEはオフ(None)で構わない。
+# SD1.5系列のVAEとは互換性がないため、利用すると色合いがおかしくなる。Autoにしている場合はNoneにすること。
+#
+# なんかノイズまみれのイラストが出たんだけど
+# Animagine XLがというよりは、SDXLの不具合で生成画像がおかしくなることがある。
+# WebUIの設定>Stable Diffusion>Emphasis Modeを「No norm」に変更すると改善する。
+#
+# Animagine XL V3.1
+# 2024年3月18日にリリースされたV3.0のアップデート版。
+# 基本的な性質についてはV3.0の記述を参考にしていただくとして、変更点のみ記述する。
+#
+# 変更点
+# プロンプトの記述方法
+# プロンプトは(クオリティタグ),(1girl or 1boy), (キャラ名), (作品名), (それ以外のプロンプト)の順に記述する。クオリティタグが先頭に変更されているので注意。
+# 注釈：ただし、V3.0とV3.1において説明文に特段違いがないため、当初からクオリティタグを先頭に記述することが想定されていた可能性はある。
+# クオリティを上げたい場合はプロンプトの先頭に「masterpiece, best quality, very aesthetic, absurdres」を記述することが推奨。
+# ネガティブプロンプトは以下のとおり記述することが推奨されている。
+# nsfw, lowres, (bad), text, error, fewer, extra, missing, worst quality, jpeg artifacts, low quality, watermark, unfinished, displeasing, oldest, early, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]
+#
+# ※()や[]は効果の増減を意味するもので、特に[]はなじみがないかもしれないが、効果を1.1倍弱める（＝0.91倍にする）ものである。
+#
+# 特別なタグについて
+# 品質タグについては、評価基準が具体化されると共に一部のタグに変更がある。
+#
+# タグ	評価基準
+# masterpiece	95%～
+# best quality	85%～95%
+# great quality	75%～85%
+# good quality	50%～75%
+# normal quality	25%～50%
+# low quality	10%～25%
+# worst quality	～10%
+# 評価タグについては、簡素化のため従来、「rating: ～」となっていたものの「rating:」が不要になった。
+# nsfwについては評価タグの一つとして位置づけられるので、明確にNSFWなものを出したい場合は、「explicit, nsfw」と記載する必要がある。
+#
+# タグ	評価
+# general	一般的なイラスト
+# sensitive	センシティブなイラスト
+# nsfw	疑わしいイラスト
+# explicit, nsfw	明示的なイラスト
+# 年代タグについては、2024年のイラストが対象に追加されているほか、一部基準やタグ名が変わっている。
+#
+# タグ	年代
+# newest	2021～2024年
+# recent	2018～2020年
+# mid	2015～2017年
+# early	2011～2014年
+# oldest	2005～2010年
+# 新たに美的タグが追加されている。アニメ画像の美的価値を評価する「Aesthetic Shadow V2」を用いて評価を行い、その評価に応じてタグ分けされている。
+#
+# タグ	評価
+# very aesthetic	0.71以上
+# aesthetic	0.45～0.71
+# displeasing	0.27～0.45
+# very displeasing	0.27以下
+# キャラクター名やシリーズ名で出せるキャラ
+# 追加されたキャラクターはこちらでまとめられている。
+# 東方ProjectやFFのキャラクターや、V3.0では出なかったアニメのキャラなどが増えている。
+# フルバージョンはこちら。
+#
+# ただし、V3.0同様、学習されているキャラということではあるが、実際にそれっぽく出るかどうかは個体差が多いので、過度の期待は禁物。
+# また、学習の都合からか、V3.0の時点で出せたキャラについても、V3.0と比べて再現性が落ちているものも。
+#
+
+# prompt (1girl or 1boy), (キャラ名), (作品名), (それ以外のプロンプト),(クオリティタグ)
+1girl, many blue slime, blue slug
+best quality
+oldest
+rating: explicit
+very aesthetic
+
+( 1998s doujin hentai,  game cg hentai,  best quality, rating explicit uncensored sex clothed,  17 years old school girl, blue slime sex through seamless fusion in bulge clothes, ),
+lying female ejaculation detailed wide indoors ,  spread knees hanging loose
+(white long blouse lift fusion camisole prepared open blazer by blue slime psychokinesis , brown blazer undressed blouse,  dark navy pleated long skirt, checked skirt,  high-waisted kawaii pure white childish panties) , (brown hair,  hazel eyes, long  hair,)
+(blue slime slug covering breasts melt into slime press psychokinesis, partially submerged, lying, angle, stuck, navy school uniform camisole, open mouth, full-face teary orgasm, half closed teary eyes Sensual gasping face,  girl's lower body trucked and submerged bedsheets fusion white glass slug)
+(blue glass slime sex through over super white panties with long pleated skirt)
+ (lying on bed, blue slime slug melt into see through urethra panties),
+(tentacles, tentacle sex, urethra molestation by slug slime penis, blue slime cement slug wrap around blouse, blue slime cement slug wrap around panties, girl sitting sex ride on a blue slug, blue slug seamless fusion with blue slime see through urethra under panties:1.2)
+( 15 years old girl with wide thick childish kodomo panties see through urethra covered seamless fusion urethra cunnilingus by blue slug slime, crotch rub sex by blue slug slime tentacle. blue slime puddle on bedsheets and clitoral stimulation :1.3),
